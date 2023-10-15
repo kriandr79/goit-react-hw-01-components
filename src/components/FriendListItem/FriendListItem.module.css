@@ -1,0 +1,12 @@
+.status {
+    width: 16px;
+    height: 16px;
+     border-radius: 50%; 
+  display: inline-block; 
+}
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
